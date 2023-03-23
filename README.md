@@ -1,5 +1,5 @@
 ## 2023-03
-- [2023-03-23](https://toss.tech/article/typescript-type-compatibility)
+- [타입호환성](https://toss.tech/article/typescript-type-compatibility)
 
 - [declarative code](https://toss.tech/article/frontend-declarative-code)
 
