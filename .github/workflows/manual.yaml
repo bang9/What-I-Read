@@ -1,4 +1,4 @@
-name: Update readme
+name: Update readme (manual)
 on: workflow_dispatch
 jobs:
   build:
