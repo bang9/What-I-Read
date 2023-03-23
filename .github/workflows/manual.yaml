@@ -1,0 +1,11 @@
+name: Update readme
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update
+        uses: bang9/issue-to-readme
