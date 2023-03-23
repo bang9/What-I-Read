@@ -1,15 +1,3 @@
-# What-I-Read
-Archive articles that I read.
-
-
-| Grade | - |
-|-------|---|
-| ⭐️⭐️⭐️⭐️⭐️ | Nice       |
-| ⭐️⭐️⭐️⭐️   | Good       |
-| ⭐️⭐️⭐️     | Useful     |
-| ❌        | Not useful |
-
-
 
 ## 2022.04
 | link | grade | etc |
