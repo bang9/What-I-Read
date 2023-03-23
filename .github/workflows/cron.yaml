@@ -1,4 +1,4 @@
-name: Update readme
+name: Update readme (cron)
 on:
   schedule:
     # 오전 9시 0분, Github Actions 에서는 UTC 기준으로 실행됨
@@ -12,3 +12,6 @@ jobs:
 
       - name: Update
         uses: bang9/issue-to-readme@0.0.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          owner_only: true
