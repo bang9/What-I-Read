@@ -1,8 +1,7 @@
-name: Update readme (cron)
+name: Update readme (issues opened)
 on:
-  schedule:
-    # 오전 9시 0분, Github Actions 에서는 UTC 기준으로 실행됨
-    - cron: '0 0 * * 1'
+  issues:
+    types: [opened]
 jobs:
   build:
     runs-on: ubuntu-latest
