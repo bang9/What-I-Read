@@ -1,4 +1,6 @@
 ## 2023-03
+- [NPM Library 배포하기](https://junghyeonsu.com/posts/deploy-simple-util-npm-library/)
+
 - [타입호환성](https://toss.tech/article/typescript-type-compatibility)
 
 - [declarative code](https://toss.tech/article/frontend-declarative-code)
