@@ -1,4 +1,6 @@
 ## 2023-03
+- [XCode project 환경변수 목록](https://goodyoda.tistory.com/390)
+
 - [Writing helpful error messages](https://hyeon9mak.github.io/writing-helpful-error-messages/)
 
 - [크롬 이슈 리포트 2023-03](https://ui.toast.com/posts/ko_chrome_report_202303)
