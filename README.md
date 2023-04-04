@@ -1,4 +1,6 @@
 ## 2023-04
+- [How to open deep-link in WebView](https://velog.io/@tosspayments/Android-iOS-%EC%9B%B9%EB%B7%B0%EC%97%90%EC%84%9C-%EB%94%A5%EB%A7%81%ED%81%AC-%EC%97%B4%EA%B8%B0)
+
 - [JS/TS features in the last 3 years](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years)
 
 - [Options for removing event listeners](https://www.macarthur.me/posts/options-for-removing-event-listeners)
