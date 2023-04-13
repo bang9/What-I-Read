@@ -1,4 +1,6 @@
 ## 2023-04
+- [Understanding npm versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
+
 - [Why and how should you write test code?](https://tech.inflab.com/20230404-test-code/)
 
 - [React labs march 2023](https://velog.io/@typo/react-labs-march-2023)
