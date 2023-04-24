@@ -1,4 +1,6 @@
 ## 2023-04
+- [선뻥 후 노력](https://jojoldu.tistory.com/713)
+
 - [Understanding npm versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
 
 - [Why and how should you write test code?](https://tech.inflab.com/20230404-test-code/)
