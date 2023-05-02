@@ -1,3 +1,6 @@
+## 2023-05
+- [Sharing data between css and js using custom properties](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/sharing-data-between-css-and-javascript-using-custom-properties.md?utm_source=substack&utm_medium=email)
+
 ## 2023-04
 - [선뻥 후 노력](https://jojoldu.tistory.com/713)
 
