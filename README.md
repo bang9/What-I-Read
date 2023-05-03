@@ -1,4 +1,6 @@
 ## 2023-05
+- [chrome background blur api](https://developer.chrome.com/blog/background-blur/)
+
 - [react.gg](https://react.gg/?s=visualized)
 
 - [Should I use e.code or e.key when handling keyboard events](https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events/)
