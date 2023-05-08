@@ -1,4 +1,6 @@
 ## 2023-05
+- [React Native Firebase: One True Version](https://invertase.io/blog/react-native-firebase-versioning)
+
 - [chrome background blur api](https://developer.chrome.com/blog/background-blur/)
 
 - [react.gg](https://react.gg/?s=visualized)
