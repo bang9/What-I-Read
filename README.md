@@ -1,4 +1,6 @@
 ## 2023-05
+- [What is Skopeo?](https://velog.io/@pullee/Skopeo-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+
 - [React Native Firebase: One True Version](https://invertase.io/blog/react-native-firebase-versioning)
 
 - [chrome background blur api](https://developer.chrome.com/blog/background-blur/)
