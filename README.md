@@ -1,4 +1,6 @@
 ## 2023-05
+- [JS Ecosystem is delightfully weird](https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird)
+
 - [신경가소성](https://youtu.be/w64W5glO_xY)
 
 - [zero-bundle-size-react-server-components](https://www.syncfusion.com/blogs/post/zero-bundle-size-react-server-components.aspx)
