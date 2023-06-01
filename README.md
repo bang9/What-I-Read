@@ -1,3 +1,6 @@
+## 2023-06
+- [dissecting npm malware](https://velog.io/@superlipbalm/dissecting-npm-malware-five-packages-and-their-evil-install-scripts)
+
 ## 2023-05
 - [JS Ecosystem is delightfully weird](https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird)
 
