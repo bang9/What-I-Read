@@ -1,4 +1,6 @@
 ## 2023-06
+- [code generator part1](https://tech.inflab.com/20230613-code-generator-part-1/)
+
 - [cache strategies](https://soobing.github.io/cs/6-caching-strategies/)
 
 - [dissecting npm malware](https://velog.io/@superlipbalm/dissecting-npm-malware-five-packages-and-their-evil-install-scripts)
