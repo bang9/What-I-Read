@@ -1,4 +1,6 @@
 ## 2023-06
+- [ioc](https://kentcdodds.com/blog/inversion-of-control)
+
 - [code generator part1](https://tech.inflab.com/20230613-code-generator-part-1/)
 
 - [cache strategies](https://soobing.github.io/cs/6-caching-strategies/)
