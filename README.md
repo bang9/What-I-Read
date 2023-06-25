@@ -1,4 +1,6 @@
 ## 2023-06
+- [typescript 5.2 using keyword](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+
 - [ioc](https://kentcdodds.com/blog/inversion-of-control)
 
 - [code generator part1](https://tech.inflab.com/20230613-code-generator-part-1/)
