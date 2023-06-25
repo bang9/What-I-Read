@@ -1,4 +1,6 @@
 ## 2023-06
+- [abstraction and declarative prgmm](https://milooy.github.io/dev/220810-abstraction-and-declarative-programming/)
+
 - [typescript 5.2 using keyword](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 
 - [ioc](https://kentcdodds.com/blog/inversion-of-control)
