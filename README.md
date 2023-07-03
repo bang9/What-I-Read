@@ -1,3 +1,6 @@
+## 2023-07
+- [좋은 설계의 조건](https://yozm.wishket.com/magazine/detail/1884)
+
 ## 2023-06
 - [abstraction and declarative prgmm](https://milooy.github.io/dev/220810-abstraction-and-declarative-programming/)
 
