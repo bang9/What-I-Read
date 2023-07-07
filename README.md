@@ -1,4 +1,6 @@
 ## 2023-07
+- [do expression (proposal)](https://github.com/tc39/proposal-do-expressions)
+
 - [react-bits](https://github.com/vasanthk/react-bits)
 
 - [event loop apis](https://www.macarthur.me/posts/navigating-the-event-loop)
