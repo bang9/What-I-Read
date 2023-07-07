@@ -1,6 +1,4 @@
 ## 2023-07
-- [event loop apis](https://www.macarthur.me/posts/navigating-the-event-loop)
-
 - [ts compiler api fyi](https://learning-notes.mistermicheels.com/javascript/typescript/compiler-api/)
 
 - [좋은 설계의 조건](https://yozm.wishket.com/magazine/detail/1884)
