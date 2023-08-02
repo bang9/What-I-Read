@@ -1,3 +1,6 @@
+## 2023-08
+- [subcomponents](https://medium.com/eightshapes-llc/subcomponents-753ce9f6600a)
+
 ## 2023-07
 - [이벤트 로깅 작업은 왜 하기 싫을까 1](https://quotabook.com/blog/tech/user-event-logs-1)
 
