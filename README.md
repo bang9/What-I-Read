@@ -1,4 +1,6 @@
 ## 2023-08
+- [aws vpc 기본 개념](https://brunch.co.kr/@growthminder/93)
+
 - [what is cmaf](https://www.wowza.com/blog/what-is-cmaf)
 
 - [low-latency-cmaf-chunked-transfer-encoding](https://www.wowza.com/blog/low-latency-cmaf-chunked-transfer-encoding)
