@@ -1,4 +1,6 @@
 ## 2023-08
+- [what is cmaf](https://www.wowza.com/blog/what-is-cmaf)
+
 - [low-latency-cmaf-chunked-transfer-encoding](https://www.wowza.com/blog/low-latency-cmaf-chunked-transfer-encoding)
 
 - [multi drm and cmaf](https://pallycon.com/ko/blog/%eb%a9%80%ed%8b%b0-drm-%ec%bd%98%ed%85%90%ec%b8%a0-cmaf%ec%9c%bc%eb%a1%9c-%eb%8b%a8%ec%9d%bc%ed%99%94%ed%95%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c)
