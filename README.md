@@ -1,4 +1,6 @@
 ## 2023-08
+- [넷플릭스는 어떻게 콘텐츠를 보호하는가 (2)](https://pallycon.tistory.com/entry/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%bd%98%ed%85%90%ec%b8%a0%eb%a5%bc-%eb%b3%b4%ed%98%b8%ed%95%98%eb%8a%94%ea%b0%80-%ec%a0%9c2%eb%b6%80)
+
 - [넷플릭스는 어떻게 콘텐츠를 보호하는가 (1)](https://pallycon.tistory.com/entry/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%bd%98%ed%85%90%ec%b8%a0%eb%a5%bc-%eb%b3%b4%ed%98%b8%ed%95%98%eb%8a%94%ea%b0%80-%ec%a0%9c1%eb%b6%80)
 
 - [eme(encrypted media extensions) basics](https://web.dev/eme-basics/)
