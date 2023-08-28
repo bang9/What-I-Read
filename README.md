@@ -1,4 +1,6 @@
 ## 2023-08
+- [eme(encrypted media extensions) basics](https://web.dev/eme-basics/)
+
 - [multiple-layers-of-abstraction-in-design-systems](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
 
 - [subcomponents](https://medium.com/eightshapes-llc/subcomponents-753ce9f6600a)
