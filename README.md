@@ -1,4 +1,6 @@
 ## 2023-08
+- [여러 vpc 간 통신망 구성](https://brunch.co.kr/@growthminder/94)
+
 - [aws vpc 기본 개념](https://brunch.co.kr/@growthminder/93)
 
 - [what is cmaf](https://www.wowza.com/blog/what-is-cmaf)
