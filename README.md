@@ -1,3 +1,6 @@
+## 2023-09
+- [좋은 예외 처리방법](https://jojoldu.tistory.com/734)
+
 ## 2023-08
 - [esm으로 패키지를 최신화한 경험기](https://medium.com/@yujso66/%eb%b2%88%ec%97%ad-esm%ec%9c%bc%eb%a1%9c-%ed%8c%a8%ed%82%a4%ec%a7%80%eb%a5%bc-%ec%b5%9c%ec%8b%a0%ed%99%94%ed%95%9c-%ea%b2%bd%ed%97%98%ea%b8%b0-1253a2a4b37d)
 
