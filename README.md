@@ -1,4 +1,6 @@
 ## 2023-09
+- [fully typed web apps](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
+
 - [좋은 예외 처리방법](https://jojoldu.tistory.com/734)
 
 ## 2023-08
