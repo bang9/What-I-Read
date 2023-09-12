@@ -1,4 +1,6 @@
 ## 2023-09
+- [how vpc works internally](https://brunch.co.kr/@growthminder/104)
+
 - [patterns-for-reactivity-with-modern-vanilla-javascript](https://ktseo41.github.io/blog/log/patterns-for-reactivity-with-modern-vanilla-javascript.html)
 
 - [fully typed web apps](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
