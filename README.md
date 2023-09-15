@@ -1,4 +1,6 @@
 ## 2023-09
+- [decoupling-ui-and-logic-in-react](https://soobing.github.io/react/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components/)
+
 - [how vpc works internally](https://brunch.co.kr/@growthminder/104)
 
 - [patterns-for-reactivity-with-modern-vanilla-javascript](https://ktseo41.github.io/blog/log/patterns-for-reactivity-with-modern-vanilla-javascript.html)
