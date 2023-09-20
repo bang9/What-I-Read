@@ -1,4 +1,6 @@
 ## 2023-09
+- [quic 0-rtt](https://blog.cloudflare.com/ko-kr/even-faster-connection-establishment-with-quic-0-rtt-resumption-ko-kr/)
+
 - [what happens in a tls handshake](https://www.cloudflare.com/ko-kr/learning/ssl/what-happens-in-a-tls-handshake/)
 
 - [what is tls?](https://www.cloudflare.com/ko-kr/learning/ssl/transport-layer-security-tls/)
