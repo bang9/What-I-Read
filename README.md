@@ -1,3 +1,6 @@
+## 2023-10
+- [project lightspeed: rewriting the messenger codebase for a faster, smaller, and simpler messaging app](https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/)
+
 ## 2023-09
 - [adorable css](https://velog.io/@teo/adorablecss-better-then-tailwindcss)
 
