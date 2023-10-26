@@ -1,4 +1,6 @@
 ## 2023-10
+- [stacked-diffs-versus-pull-requests](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
+
 - [one_thing_nobody_explained_to_you_about_typescript](https://ykss.netlify.app/translation/one_thing_nobody_explained_to_you_about_typescript/?utm_source=substack&utm_medium=email)
 
 - [messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron](https://developers.facebook.com/blog/post/2023/05/17/messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron/)
