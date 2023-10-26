@@ -1,4 +1,6 @@
 ## 2023-10
+- [one_thing_nobody_explained_to_you_about_typescript](https://ykss.netlify.app/translation/one_thing_nobody_explained_to_you_about_typescript/?utm_source=substack&utm_medium=email)
+
 - [messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron](https://developers.facebook.com/blog/post/2023/05/17/messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron/)
 
 - [project lightspeed: rewriting the messenger codebase for a faster, smaller, and simpler messaging app](https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/)
