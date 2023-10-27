@@ -1,4 +1,6 @@
 ## 2023-10
+- [working-with-stacked-branches-in-git-is-easier-with-update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
+
 - [stacked-diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
 
 - [stacked-diffs-versus-pull-requests](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
