@@ -1,4 +1,6 @@
 ## 2023-10
+- [the-saga-of-the-closure-compiler](https://ktseo41.github.io/blog/log/the-saga-of-the-closure-compiler-and-why-typescript-won.html#%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8)
+
 - [working-with-stacked-branches-in-git-is-easier-with-update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 
 - [stacked-diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
