@@ -1,4 +1,6 @@
 ## 2023-11
+- [interface-pattern](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
+
 - [왜 타입스크립트는 object.keys의 타입을 적절하게 추론하지 못할까요?](https://medium.com/@yujso66/%eb%b2%88%ec%97%ad-%ec%99%9c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-object-keys%ec%9d%98-%ed%83%80%ec%9e%85%ec%9d%84-%ec%a0%81%ec%a0%88%ed%95%98%ea%b2%8c-%ec%b6%94%eb%a1%a0%ed%95%98%ec%a7%80-%eb%aa%bb%ed%95%a0%ea%b9%8c%ec%9a%94-477253b1aafa)
 
 ## 2023-10
