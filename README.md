@@ -1,4 +1,6 @@
 ## 2023-11
+- [breaking-react-querys-api-on-purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
+
 - [how we optimized package imports in next.js](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js)
 
 - [interface-pattern](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
