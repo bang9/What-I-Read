@@ -1,4 +1,6 @@
 ## 2023-11
+- [experimenting-with-measuring-soft-navigations](https://ktseo41.github.io/blog/log/experimenting-with-measuring-soft-navigations.html)
+
 - [ios-android-declarative-ui-programming](https://h2s1880.medium.com/ios-android-declarative-ui-programming-%eb%b0%a9%ec%8b%9d%ec%9d%b4-%ea%b0%80%ec%a0%b8%ec%98%a8-%eb%b3%80%ed%99%94%eb%93%a4-f61896275110)
 
 - [breaking-react-querys-api-on-purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
