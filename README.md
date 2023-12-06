@@ -1,3 +1,6 @@
+## 2023-12
+- [dependency-managers-dont-manage-your-dependencies](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies)
+
 ## 2023-11
 - [experimenting-with-measuring-soft-navigations](https://ktseo41.github.io/blog/log/experimenting-with-measuring-soft-navigations.html)
 
