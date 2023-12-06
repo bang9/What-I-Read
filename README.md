@@ -1,4 +1,6 @@
 ## 2023-12
+- [react-docs-recommendations](https://velog.io/@eunbinn/react-docs-recommendations)
+
 - [dependency-managers-dont-manage-your-dependencies](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies)
 
 ## 2023-11
