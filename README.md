@@ -1,4 +1,6 @@
 ## 2023-12
+- [힘들어하는 주니어들을 위하여](https://velog.io/@bo-like-chicken/%ed%9e%98%eb%93%a4%ec%96%b4%ed%95%98%eb%8a%94-%ec%a3%bc%eb%8b%88%ec%96%b4%eb%93%a4%ec%9d%84-%ec%9c%84%ed%95%98%ec%97%ac)
+
 - [react-docs-recommendations](https://velog.io/@eunbinn/react-docs-recommendations)
 
 - [dependency-managers-dont-manage-your-dependencies](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies)
