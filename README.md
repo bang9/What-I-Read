@@ -1,4 +1,6 @@
 ## 2023-12
+- [5-most-innovative-proposals-for-javascript-planned-for-2024](https://soobing.github.io/javascript/the-5-most-innovative-proposals-for-javascript-planned-for-2024/)
+
 - [team player 101](https://milooy.github.io/dev/230816-team-player-101/)
 
 - [wishlist - summit](https://margelo.notion.site/wishlist-summit-b20c24d1f0da4889a0513dfa929be5ed)
