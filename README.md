@@ -1,3 +1,6 @@
+## 2024-01
+- [내 인생의 w를 찾아라](https://www.youtube.com/watch?v=u9ufee7thbq)
+
 ## 2023-12
 - [로그 신경 안 쓰기](https://velog.io/@tosspayments/%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%eb%a1%9c%ea%b9%85-%ec%8b%a0%ea%b2%bd-%ec%95%88-%ec%93%b0%ea%b8%b0)
 
