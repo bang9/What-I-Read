@@ -1,4 +1,6 @@
 ## 2024-01
+- [2024 기술분야 빅 아이디어](https://news.hada.io/topic?id=12542)
+
 - [내 인생의 w를 찾아라](https://www.youtube.com/watch?v=u9ufee7thbq)
 
 ## 2023-12
