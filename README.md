@@ -1,4 +1,6 @@
 ## 2024-01
+- [proxy-design-pattern-with-react](https://blog.bitsrc.io/proxy-design-pattern-with-react-c0b465980fbf)
+
 - [why-http-80-https-443](https://johngrib.github.io/wiki/why-http-80-https-443/)
 
 - [2024 기술분야 빅 아이디어](https://news.hada.io/topic?id=12542)
