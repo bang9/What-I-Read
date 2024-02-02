@@ -1,3 +1,6 @@
+## 2024-02
+- [iflab iac (1)](https://tech.inflab.com/20240201-inflab-iac/)
+
 ## 2024-01
 - [https://refactoring.guru/](https://refactoring.guru/)
 
