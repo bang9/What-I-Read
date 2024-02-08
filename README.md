@@ -1,4 +1,6 @@
 ## 2024-02
+- [아름다운 코드에 대하여](https://kciter.so/posts/what-is-beautiful-code/)
+
 - [line - recode project](https://techblog.lycorp.co.jp/ko/demaecan-3rd-recode-react-native-to-flutter?)
 
 - [line - common module refactoring with flutter pkg](https://engineering.linecorp.com/ko/blog/common-module-refactoring-with-flutter-package)
