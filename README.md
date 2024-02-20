@@ -1,4 +1,6 @@
 ## 2024-02
+- [import attributes](https://velog.io/@superlipbalm/import-attributes)
+
 - [이런것도 컴포넌트로 만들어도 될까?](https://toss.tech/article/tds-component-making?fbclid=paaazwfy13up1pvy5qwlovkzh7ti1nvymwcihybeo0cmicqqapqa2c1j8fqws)
 
 - [webhook 시스템 설계 체크 리스트](https://dataportal.kr/webhooks(%ec%9b%b9%ed%9b%85)-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%b2%b4%ed%81%ac%eb%a6%ac%ec%8a%a4%ed%8a%b8/)
