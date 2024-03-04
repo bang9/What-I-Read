@@ -1,3 +1,6 @@
+## 2024-03
+- [atomic state management jotai](https://blog.hwahae.co.kr/all/tech/6099)
+
 ## 2024-02
 - [react-labs-what-we-have-been-working-on-february-2024](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 
