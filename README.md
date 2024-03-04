@@ -1,4 +1,6 @@
 ## 2024-03
+- [how browsers works](https://d2.naver.com/helloworld/59361)
+
 - [react trends in 2024](https://ykss.netlify.app/translation/react_trends_in_2024)
 
 - [atomic state management jotai](https://blog.hwahae.co.kr/all/tech/6099)
