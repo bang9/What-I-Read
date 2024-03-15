@@ -1,4 +1,6 @@
 ## 2024-03
+- [사이드 프로젝트는 사이드가 아니다 (everymoji)](https://techblog.woowahan.com/16158/)
+
 - [쓰면글림체 사이드 프로젝트 이야기](https://techblog.woowahan.com/16547/)
 
 - [how browsers works](https://d2.naver.com/helloworld/59361)
