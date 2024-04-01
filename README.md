@@ -1,4 +1,6 @@
 ## 2024-04
+- [localhost https 설정하기](https://velog.io/@sejinkim/%eb%a1%9c%ec%bb%ac-%ea%b0%9c%eb%b0%9c%ed%99%98%ea%b2%bd%ec%97%90-https-%ec%a0%81%ec%9a%a9%ed%95%98%ea%b8%b0)
+
 - [react-native-skia v1.0](https://www.youtube.com/watch?v=eubj_nxcgkg)
 
 ## 2024-03
