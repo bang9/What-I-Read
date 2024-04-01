@@ -1,3 +1,6 @@
+## 2024-04
+- [react-native-skia v1.0](https://www.youtube.com/watch?v=eubj_nxcgkg)
+
 ## 2024-03
 - [react-native-esbuild](https://geundung.dev/132)
 
