@@ -1,4 +1,6 @@
 ## 2024-04
+- [what's difference between js runtime and engine](https://substack.com/redirect/4ded3455-d80e-4c66-98b4-1b60b0a39e61?j=eyj1ijoimmfiewruin0.ymjsy7-aodep4q2ks-rxfn9cc9x_sx4dyjuq7regdx4)
+
 - [localhost https 설정하기](https://velog.io/@sejinkim/%eb%a1%9c%ec%bb%ac-%ea%b0%9c%eb%b0%9c%ed%99%98%ea%b2%bd%ec%97%90-https-%ec%a0%81%ec%9a%a9%ed%95%98%ea%b8%b0)
 
 - [react-native-skia v1.0](https://www.youtube.com/watch?v=eubj_nxcgkg)
