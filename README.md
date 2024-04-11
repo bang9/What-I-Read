@@ -1,4 +1,6 @@
 ## 2024-04
+- [optimizing-javascript-for-fun-and-for-profit](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
+
 - [json rfc](https://gamechangers.tistory.com/18)
 
 - [당근 fe 4개의 프로젝트 합치기](https://medium.com/daangn/%eb%8b%b9%ea%b7%bc%ed%8e%98%ec%9d%b4-fe-4%ea%b0%9c%ec%9d%98-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%eb%a5%bc-%ed%95%98%eb%82%98%eb%a1%9c-%ed%95%a9%ec%b9%98%eb%a9%b0-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94%eb%93%a4-b96f837230da)
