@@ -1,4 +1,6 @@
 ## 2024-04
+- [bigpipe-pipelining-web-pages-for-high-performance](https://engineering.fb.com/2010/06/04/web/bigpipe-pipelining-web-pages-for-high-performance/)
+
 - [optimizing-javascript-for-fun-and-for-profit](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
 
 - [json rfc](https://gamechangers.tistory.com/18)
