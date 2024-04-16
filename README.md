@@ -1,4 +1,6 @@
 ## 2024-04
+- [making facebook 2x faster](https://www.facebook.com/notes/10158791326312200/)
+
 - [bigpipe-pipelining-web-pages-for-high-performance](https://engineering.fb.com/2010/06/04/web/bigpipe-pipelining-web-pages-for-high-performance/)
 
 - [optimizing-javascript-for-fun-and-for-profit](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
