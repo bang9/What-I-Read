@@ -1,4 +1,6 @@
 ## 2024-04
+- [navigating the future of frontend](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
+
 - [making facebook 2x faster](https://www.facebook.com/notes/10158791326312200/)
 
 - [bigpipe-pipelining-web-pages-for-high-performance](https://engineering.fb.com/2010/06/04/web/bigpipe-pipelining-web-pages-for-high-performance/)
