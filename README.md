@@ -1,3 +1,6 @@
+## 2024-05
+- [웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%ec%9b%b9%ec%97%90%ec%84%9c-%ed%94%84%eb%a6%ac-%eb%93%9c%eb%a1%9c%ec%9e%89-%eb%b0%91%eb%b0%94%eb%8b%a5%eb%b6%80%ed%84%b0-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0-965a0d2253c1)
+
 ## 2024-04
 - [navigating the future of frontend](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
 
