@@ -1,4 +1,6 @@
 ## 2024-06
+- [css logical properties (start/end)](https://adrianroselli.com/2019/11/css-logical-properties.html)
+
 - [rtl styling guide](https://rtlstyling.com/)
 
 ## 2024-05
