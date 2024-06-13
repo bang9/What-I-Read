@@ -1,4 +1,6 @@
 ## 2024-06
+- [distributed system](https://d2.naver.com/helloworld/206816)
+
 - [css logical properties (start/end)](https://adrianroselli.com/2019/11/css-logical-properties.html)
 
 - [rtl styling guide](https://rtlstyling.com/)
