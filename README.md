@@ -1,4 +1,6 @@
 ## 2024-06
+- [source maps](https://web.dev/articles/source-maps?hl=ko)
+
 - [distributed system](https://d2.naver.com/helloworld/206816)
 
 - [css logical properties (start/end)](https://adrianroselli.com/2019/11/css-logical-properties.html)
