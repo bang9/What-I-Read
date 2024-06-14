@@ -1,4 +1,6 @@
 ## 2024-06
+- [피그마 모바일 엔진의 진화: 커스텀 프로그래밍 언어를 제거하고 컴파일 하기](https://ricki-lee.medium.com/%ed%94%bc%ea%b7%b8%eb%a7%88-%eb%aa%a8%eb%b0%94%ec%9d%bc-%ec%97%94%ec%a7%84%ec%9d%98-%ec%a7%84%ed%99%94-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%96%b8%ec%96%b4%eb%a5%bc-%ec%a0%9c%ea%b1%b0%ed%95%98%ea%b3%a0-%ec%bb%b4%ed%8c%8c%ec%9d%bc%ed%95%98%ea%b8%b0-1cd2d06898db)
+
 - [source maps](https://web.dev/articles/source-maps?hl=ko)
 
 - [distributed system](https://d2.naver.com/helloworld/206816)
