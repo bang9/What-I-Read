@@ -1,4 +1,6 @@
 ## 2024-07
+- [aws app runner 후기](https://jakpentest.tistory.com/entry/app-runner-%ea%b0%84%eb%8b%a8%ed%9e%88-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b8-%ed%9b%84%ea%b8%b0)
+
 - [optimize-ttfb](https://web.dev/articles/optimize-ttfb?hl=ko)
 
 - [remix-philosophy](https://immigration9.github.io/react,remix/2021/11/30/remix-philosophy.html)
