@@ -1,4 +1,6 @@
 ## 2024-07
+- [remix-philosophy](https://immigration9.github.io/react,remix/2021/11/30/remix-philosophy.html)
+
 - [react-css-in-js-nationjs](https://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 
 ## 2024-06
