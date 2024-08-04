@@ -1,3 +1,6 @@
+## 2024-08
+- [당근페이 확장성 있는 tcp 통신 시스템 구축하기](https://medium.com/daangn/%ed%99%95%ec%9e%a5%ec%84%b1-%ec%9e%88%eb%8a%94-tcp-%ed%86%b5%ec%8b%a0-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0-981c230cdc77)
+
 ## 2024-07
 - [aws app runner 후기](https://jakpentest.tistory.com/entry/app-runner-%ea%b0%84%eb%8b%a8%ed%9e%88-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b8-%ed%9b%84%ea%b8%b0)
 
