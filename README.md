@@ -1,4 +1,6 @@
 ## 2024-08
+- [github-repo-artifacts-leak-tokens](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
+
 - [adguard](https://adguard-dns.io/ko/blog/dns-content-blocking-at-scale.html)
 
 - [당근페이 확장성 있는 tcp 통신 시스템 구축하기](https://medium.com/daangn/%ed%99%95%ec%9e%a5%ec%84%b1-%ec%9e%88%eb%8a%94-tcp-%ed%86%b5%ec%8b%a0-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0-981c230cdc77)
