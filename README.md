@@ -1,3 +1,6 @@
+## 2024-09
+- [remove corepack from nodejs](https://socket.dev/blog/node-js-takes-steps-towards-removing-corepack)
+
 ## 2024-08
 - [github-repo-artifacts-leak-tokens](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
 
