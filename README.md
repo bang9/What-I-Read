@@ -1,4 +1,6 @@
 ## 2024-09
+- [마우스 포인터 친화적인 하위 메뉴 기능 만들기](https://medium.com/@jiwoochoics/%eb%b2%88%ec%97%ad-%eb%a7%88%ec%9a%b0%ec%8a%a4-%ed%8f%ac%ec%9d%b8%ed%84%b0-%ec%b9%9c%ed%99%94%ec%a0%81%ec%9d%b8-%ed%95%98%ec%9c%84-%eb%a9%94%eb%89%b4-%ea%b8%b0%eb%8a%a5-%eb%a7%8c%eb%93%a4%ea%b8%b0-70d5c97e4232)
+
 - [remove corepack from nodejs](https://socket.dev/blog/node-js-takes-steps-towards-removing-corepack)
 
 ## 2024-08
