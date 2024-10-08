@@ -1,4 +1,6 @@
 ## 2024-10
+- [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
+
 - [nist 비밀번호 요구사항 업데이트](https://news.hada.io/topic?id=16939)
 
 ## 2024-09
