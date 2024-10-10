@@ -1,4 +1,6 @@
 ## 2024-10
+- [how_to_make_your_web_page_faster_before_it_even_loads](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads)
+
 - [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
 
 - [nist 비밀번호 요구사항 업데이트](https://news.hada.io/topic?id=16939)
