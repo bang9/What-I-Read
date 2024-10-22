@@ -1,4 +1,6 @@
 ## 2024-10
+- [how-airbnb-smoothly-upgrades-react](https://velog.io/@typo/how-airbnb-smoothly-upgrades-react)
+
 - [how_to_make_your_web_page_faster_before_it_even_loads](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads)
 
 - [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
