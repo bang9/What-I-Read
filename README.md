@@ -1,4 +1,6 @@
 ## 2024-10
+- [내 인생 최악의 프로젝트로부터 배운 것](https://divercity.stibee.com/p/35/)
+
 - [how-airbnb-smoothly-upgrades-react](https://velog.io/@typo/how-airbnb-smoothly-upgrades-react)
 
 - [how_to_make_your_web_page_faster_before_it_even_loads](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads)
