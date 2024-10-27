@@ -1,4 +1,6 @@
 ## 2024-10
+- [how we test sdks at revenuecat](https://www.revenuecat.com/blog/engineering/test-sdks-revenuecat/)
+
 - [내 인생 최악의 프로젝트로부터 배운 것](https://divercity.stibee.com/p/35/)
 
 - [how-airbnb-smoothly-upgrades-react](https://velog.io/@typo/how-airbnb-smoothly-upgrades-react)
