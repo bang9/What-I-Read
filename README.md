@@ -1,4 +1,6 @@
 ## 2024-11
+- [최악의 프로젝트는 왜 최악이 되었는가](https://stibee.com/api/v1.0/emails/share/tsbmcg3lr7knw_ra3hga2zatfgcjsui)
+
 - [[web.dev] content-visibility](https://web.dev/articles/content-visibility)
 
 - [improving-rendering-performance-with-css-content-visibility](https://velog.io/@superlipbalm/improving-rendering-performance-with-css-content-visibility)
