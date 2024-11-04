@@ -1,4 +1,6 @@
 ## 2024-11
+- [improving-rendering-performance-with-css-content-visibility](https://velog.io/@superlipbalm/improving-rendering-performance-with-css-content-visibility)
+
 - [프로젝트 전체에서 사용되는 패키지, 어떻게 마이그레이션 할까?](https://toss.tech/article/frontent-package-migration)
 
 ## 2024-10
