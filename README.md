@@ -1,4 +1,6 @@
 ## 2024-11
+- [fetch 는 왜 두번 기다려야 할까?](https://wormwlrm.github.io/2024/11/08/why-does-javascript-fetch-make-me-wait-twice.html)
+
 - [최악의 프로젝트는 왜 최악이 되었는가](https://stibee.com/api/v1.0/emails/share/tsbmcg3lr7knw_ra3hga2zatfgcjsui)
 
 - [[web.dev] content-visibility](https://web.dev/articles/content-visibility)
