@@ -1,4 +1,6 @@
 ## 2024-11
+- [how-we-shrunk-our-git-repo-size-by-94-percent](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+
 - [fetch 는 왜 두번 기다려야 할까?](https://wormwlrm.github.io/2024/11/08/why-does-javascript-fetch-make-me-wait-twice.html)
 
 - [최악의 프로젝트는 왜 최악이 되었는가](https://stibee.com/api/v1.0/emails/share/tsBMcg3lr7KNW_Ra3HgA2ZaTfGcJSuI)
