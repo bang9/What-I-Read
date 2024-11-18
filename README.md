@@ -1,4 +1,6 @@
 ## 2024-11
+- [react-native architecture](https://reactnative.dev/architecture)
+
 - [how-we-shrunk-our-git-repo-size-by-94-percent](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 
 - [fetch 는 왜 두번 기다려야 할까?](https://wormwlrm.github.io/2024/11/08/why-does-javascript-fetch-make-me-wait-twice.html)
