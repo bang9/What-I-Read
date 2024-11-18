@@ -1,4 +1,6 @@
 ## 2024-11
+- [react-native well-defined-event-loop](https://github.com/react-native-community/discussions-and-proposals/blob/main/proposals/0744-well-defined-event-loop.md)
+
 - [react-native architecture](https://reactnative.dev/architecture)
 
 - [how-we-shrunk-our-git-repo-size-by-94-percent](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
