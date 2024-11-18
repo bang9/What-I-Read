@@ -1,4 +1,6 @@
 ## 2024-11
+- [openjs-improve-interoperability-of-javascript-package-metadata](https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata)
+
 - [react-native well-defined-event-loop](https://github.com/react-native-community/discussions-and-proposals/blob/main/proposals/0744-well-defined-event-loop.md)
 
 - [react-native architecture](https://reactnative.dev/architecture)
