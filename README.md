@@ -1,3 +1,6 @@
+## 2024-12
+- [dont-forget-to-localize-icons](https://velog.io/@sehyunny/dont-forget-to-localize-icons)
+
 ## 2024-11
 - [openjs-improve-interoperability-of-javascript-package-metadata](https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata)
 
