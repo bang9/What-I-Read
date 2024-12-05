@@ -1,4 +1,6 @@
 ## 2024-12
+- [why do client components get ssr'd to html](https://github.com/reactwg/server-components/discussions/4)
+
 - [dont-forget-to-localize-icons](https://velog.io/@sehyunny/dont-forget-to-localize-icons)
 
 ## 2024-11
