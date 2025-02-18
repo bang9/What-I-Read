@@ -1,3 +1,6 @@
+## 2025-02
+- [accessibility-essentials-every-front-end-developer-should-know](https://velog.io/@eunbinn/accessibility-essentials-every-front-end-developer-should-know)
+
 ## 2024-12
 - [why do client components get ssr'd to html](https://github.com/reactwg/server-components/discussions/4)
 
