@@ -1,4 +1,6 @@
 ## 2025-02
+- [code base prompting](https://pronist.tistory.com/206)
+
 - [스트링 유니온에 스트링 타입을 추가했을때, 타입이 스트링으로 축소되지 않는 방법](https://github.com/toss/frontend-fundamentals/discussions/150#discussioncomment-12134103)
 
 - [accessibility-essentials-every-front-end-developer-should-know](https://velog.io/@eunbinn/accessibility-essentials-every-front-end-developer-should-know)
