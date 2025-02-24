@@ -1,4 +1,6 @@
 ## 2025-02
+- [building-ai-agent-workflows-with-vercels-ai-sdk-a-practical-guide](https://www.callstack.com/blog/building-ai-agent-workflows-with-vercels-ai-sdk-a-practical-guide)
+
 - [module federation shared](https://maxkim-j.github.io/posts/module-federation-shared/)
 
 - [code base prompting](https://pronist.tistory.com/206)
