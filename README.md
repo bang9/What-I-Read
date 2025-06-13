@@ -1,4 +1,6 @@
 ## 2025-06
+- [스테이킹과 커스터디, 그리고 하루/델리오](https://dsrv.notion.site/bdf6c14a0cda45f29ded9c57d0058bbd)
+
 - [progressive json](https://hanameee.github.io/posts/progressive_json)
 
 ## 2025-05
