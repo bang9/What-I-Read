@@ -1,3 +1,6 @@
+## 2025-09
+- [declarative-programming-misconceptions-and-essence](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)
+
 ## 2025-08
 - [flashlist v2](https://shopify.engineering/flashlist-v2)
 
