@@ -1,3 +1,6 @@
+## 2025-12
+- [강결합된 react 앱을 독립적인 sdk로 분리하기](https://www.chan9yu.dev/posts/separating-react-app-to-sdk)
+
 ## 2025-09
 - [declarative-programming-misconceptions-and-essence](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)
 
