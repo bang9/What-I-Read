@@ -1,4 +1,6 @@
 ## 2025-12
+- [text editor 별 최적화와 자료구조](https://www.pwnz.kr/posts/text-editor-data-structures)
+
 - [강결합된 react 앱을 독립적인 sdk로 분리하기](https://www.chan9yu.dev/posts/separating-react-app-to-sdk)
 
 ## 2025-09
