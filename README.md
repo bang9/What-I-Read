@@ -1,3 +1,6 @@
+## 2026-03
+- [harness design long running apps](https://www.anthropic.com/engineering/harness-design-long-running-apps)
+
 ## 2025-12
 - [text editor 별 최적화와 자료구조](https://www.pwnz.kr/posts/text-editor-data-structures)
 
