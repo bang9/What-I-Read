@@ -1,4 +1,6 @@
 ## 2026-03
+- [나에게 딱 맞는 바퀴를 만드는 시대](https://medium.com/@ibare/%ec%8b%9c%eb%8b%88%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-ai%ec%99%80-6%ea%b0%9c%ec%9b%94%ea%b0%84-25%eb%a7%8c-%eb%9d%bc%ec%9d%b8%ec%9d%98-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%84-%eb%a7%8c%eb%93%a4%eb%a9%b0-%eb%b0%9c%ea%b2%ac%ed%95%9c-%ea%b2%83%eb%93%a4-e3935857f35c)
+
 - [anthropic - effective harness for long running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
 - [openai - harness engineering](https://openai.com/ko-kr/index/harness-engineering/)
