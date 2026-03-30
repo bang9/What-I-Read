@@ -3,7 +3,7 @@
 
 - [anthropic - effective harness for long running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
-- [openai - harness engineering](https://openai.com/ko-kr/index/harness-engineering/)
+- [openai - harness engineering](https://openai.com/ko-KR/index/harness-engineering/)
 
 - [harness design long running apps](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 
