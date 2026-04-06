@@ -1,4 +1,6 @@
 ## 2026-04
+- [evolution-of-ai-agentic-patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
+
 - [making-turborepo-ninety-six-percent-faster-with-agents-sandboxes-and-humans](https://vercel.com/blog/making-turborepo-ninety-six-percent-faster-with-agents-sandboxes-and-humans)
 
 ## 2026-03
